@@ -1,0 +1,1 @@
+Picture layout sample.
